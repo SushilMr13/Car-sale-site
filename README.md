@@ -26,6 +26,6 @@ Open home.html in any modern web browser.
 The animation will start automatically when the page loads.
 
 🔮 Future Improvements
-✨ Add JavaScript functionality for interactive buttons.
-🎭 Improve animations with smoother transitions.
-📱 Enhance responsiveness for better mobile support.
+-✨ Add JavaScript functionality for interactive buttons.
+-🎭 Improve animations with smoother transitions.
+-📱 Enhance responsiveness for better mobile support.
