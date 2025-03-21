@@ -4,7 +4,7 @@ This is a simple **car animation project** built using **HTML and CSS**. The ani
 
 ## 📸 Showcase
 
-![Car Animation](.Assests/Car.gif)  
+![Car Animation](./Assests/Car.gif)  
 
 
 ## ✨ Features
