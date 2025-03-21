@@ -4,7 +4,7 @@ This is a simple **car animation project** built using **HTML and CSS**. The ani
 
 ## 📸 Showcase
 
-![Car Animation](Car.mp4)  
+![Car Animation](.Assests/Car.gif)  
 
 
 ## ✨ Features
@@ -17,4 +17,15 @@ This is a simple **car animation project** built using **HTML and CSS**. The ani
 - **HTML**
 - **CSS**
 
-## 📂 File Structure
+## 🚀 Installation & Usage
+1. **Clone the repository** or **download the project files**:
+   ```sh
+   git clone https://github.com/yourusername/car-animation.git
+
+Open home.html in any modern web browser.
+The animation will start automatically when the page loads.
+
+🔮 Future Improvements
+✨ Add JavaScript functionality for interactive buttons.
+🎭 Improve animations with smoother transitions.
+📱 Enhance responsiveness for better mobile support.
