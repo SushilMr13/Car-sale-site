@@ -25,7 +25,9 @@ This is a simple **car animation project** built using **HTML and CSS**. The ani
 Open home.html in any modern web browser.
 The animation will start automatically when the page loads.
 
-🔮 Future Improvements
--✨ **Add JavaScript functionality for interactive buttons.**
--🎭 **Improve animations with smoother transitions.**
--📱 **Enhance responsiveness for better mobile support.**
+
+## 🔮 Future Improvements  
+- ✨ **Add JavaScript functionality** for interactive buttons.  
+- 🎭 **Improve animations** with smoother transitions.  
+- 📱 **Enhance responsiveness** for better mobile support.  
+
